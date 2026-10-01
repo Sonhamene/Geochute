@@ -2,7 +2,7 @@
 
 Um jogo de adivinhar lugares usando o **Street View do Google Maps**, para jogar com amigos no mesmo computador. Funciona como um userscript do Tampermonkey.
 
-> 🤖 **Projeto feito com IA.** Este código foi escrito em conversa com o Claude (Anthropic), com direção e testes de [SEU NOME]. Pode ter bugs e não passou por revisão profissional.
+> 🤖 **Projeto feito com IA.** Este código foi escrito em conversa com o Claude (Anthropic), com direção e testes de Pedro Ferreira Magalhães. Pode ter bugs e não passou por revisão profissional.
 
 > ⚠️ **Projeto independente e não oficial.** Não é afiliado, patrocinado ou aprovado pelo Google nem pelo GeoGuessr. "Google Maps" e "Street View" são marcas do Google; "GeoGuessr" é marca de seus respectivos donos.
 
