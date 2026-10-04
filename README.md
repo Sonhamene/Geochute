@@ -9,7 +9,7 @@ Um jogo de adivinhar lugares usando o **Street View do Google Maps**, para jogar
 ## Instalar
 
 1. Instale a extensão [Tampermonkey](https://www.tampermonkey.net/) no seu navegador.
-2. Clique aqui para instalar o script: **[geochute.user.js](https://raw.githubusercontent.com/SEU_USUARIO/geochute/main/geochute.user.js)**
+2. Clique aqui para instalar o script: **[geochute.user.js](https://raw.githubusercontent.com/Sonhamene/geochute/main/geochute.user.js)**
 3. Abra o [Google Maps](https://www.google.com/maps). O painel do jogo aparece no canto da tela.
 4. Na primeira vez, o Tampermonkey pede permissão para acessar `nominatim.openstreetmap.org` (usado no bônus de país e na busca de áreas). Aceite.
 
